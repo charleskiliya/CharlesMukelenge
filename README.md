@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlesMukelenge
-- 👀 I’m interested in SQL,Python,Html,Css,Java...
+- 👀 I’m interested in SQL,Python
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on JavaScript,Php
+- 💞️ I’m looking to collaborate on Fullstack Web Development
 - 📫 How to reach me on Twitter @CharlesMukelen1
 
 <!---
