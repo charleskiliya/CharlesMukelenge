@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlesMukelenge
 - 👀 I’m interested in SQL,Python,Html,Css,Java...
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on JavaScript,Php
 - 📫 How to reach me on Twitter @CharlesMukelen1
 
